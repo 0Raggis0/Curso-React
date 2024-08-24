@@ -1,8 +1,29 @@
-# React + Vite
+# Twitter Follow Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that displays Twitter-like follow cards.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A build tool that provides a fast development environment.
+- **CSS Modules**: For styling components with scoped CSS.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/0Raggis0/Curso-React/projects/01-twitterFollowCard
+
+
+Navigate to the project directory:
+cd Curso-React/projects/01-twitterFollowCard
+
+Install the dependencies:
+npm install
+
+Start the application:
+npm start
+npm run dev
+
+
+Enjoy! 
